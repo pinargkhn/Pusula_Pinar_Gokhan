@@ -76,7 +76,7 @@ No model training is required — the focus is on **cleaning, structuring, and t
 Clone the repository and open the notebooks in **Jupyter**:
 
 ```bash
-git clone https://github.com/yourusername/Pusula_Pinar_Gokhan.git
+git clone https://github.com/pinargkhn/Pusula_Pinar_Gokhan.git
 cd Pusula_Pinar_Gokhan
 jupyter notebook
 
