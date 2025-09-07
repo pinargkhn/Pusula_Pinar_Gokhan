@@ -58,7 +58,7 @@ No model training is required — the focus is on **cleaning, structuring, and t
 
 ---
 
-## Project Structure  
+## Project Structure
 
 ├── 01_EDA.ipynb # Exploratory Data Analysis
 ├── 02_Preprocessing.ipynb # Data cleaning & preprocessing
@@ -68,7 +68,6 @@ No model training is required — the focus is on **cleaning, structuring, and t
 │ ├── model_ready.csv # Clean dataset
 │ └── model_matrix.csv # Final model matrix
 └── README.md
-
 
 ---
 ## How to Run
